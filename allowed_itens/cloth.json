@@ -1,0 +1,118 @@
+[
+    {
+        "item_id": "T2_CLOTH",
+        "item_base_value": -1,
+        "item_fame": -1
+    },
+
+    {
+        "item_id": "T3_CLOTH",
+        "item_base_value": -1,
+        "item_fame": -1
+    },
+    
+    {
+        "item_id": "T4_CLOTH",
+        "item_base_value": -1,
+        "item_fame": -1
+    },
+    {
+        "item_id": "T4_CLOTH_LEVEL1@1",
+        "item_base_value": -1,
+        "item_fame": -1
+    },
+    {
+        "item_id": "T4_CLOTH_LEVEL2@2",
+        "item_base_value": -1,
+        "item_fame": -1
+    },
+    {
+        "item_id": "T4_CLOTH_LEVEL3@3",
+        "item_base_value": -1,
+        "item_fame": -1
+    },
+
+    {
+        "item_id": "T5_CLOTH",
+        "item_base_value": -1,
+        "item_fame": -1
+    },
+    {
+        "item_id": "T5_CLOTH_LEVEL1@1",
+        "item_base_value": -1,
+        "item_fame": -1
+    },
+    {
+        "item_id": "T5_CLOTH_LEVEL2@2",
+        "item_base_value": -1,
+        "item_fame": -1
+    },
+    {
+        "item_id": "T5_CLOTH_LEVEL3@3",
+        "item_base_value": -1,
+        "item_fame": -1
+    },
+
+    {
+        "item_id": "T6_CLOTH",
+        "item_base_value": -1,
+        "item_fame": -1
+    },
+    {
+        "item_id": "T6_CLOTH_LEVEL1@1",
+        "item_base_value": -1,
+        "item_fame": -1
+    },
+    {
+        "item_id": "T6_CLOTH_LEVEL2@2",
+        "item_base_value": -1,
+        "item_fame": -1
+    },
+    {
+        "item_id": "T6_CLOTH_LEVEL3@3",
+        "item_base_value": -1,
+        "item_fame": -1
+    },
+
+    {
+        "item_id": "T7_CLOTH",
+        "item_base_value": -1,
+        "item_fame": -1
+    },
+    {
+        "item_id": "T7_CLOTH_LEVEL1@1",
+        "item_base_value": -1,
+        "item_fame": -1
+    },
+    {
+        "item_id": "T7_CLOTH_LEVEL2@2",
+        "item_base_value": -1,
+        "item_fame": -1
+    },
+    {
+        "item_id": "T7_CLOTH_LEVEL3@3",
+        "item_base_value": -1,
+        "item_fame": -1
+    },
+
+    {
+        "item_id": "T8_CLOTH",
+        "item_base_value": -1,
+        "item_fame": -1
+    },
+    {
+        "item_id": "T8_CLOTH_LEVEL1@1",
+        "item_base_value": -1,
+        "item_fame": -1
+    },
+    {
+        "item_id": "T8_CLOTH_LEVEL2@2",
+        "item_base_value": -1,
+        "item_fame": -1
+    },
+    {
+        "item_id": "T8_CLOTH_LEVEL3@3",
+        "item_base_value": 1270,
+        "item_fame": -1
+    }    
+]

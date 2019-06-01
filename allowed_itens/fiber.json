@@ -1,0 +1,118 @@
+[
+    {
+        "item_id": "T2_FIBER",
+        "item_base_value": 0,
+        "item_fame": 0
+    },
+
+    {
+        "item_id": "T3_FIBER",
+        "item_base_value": 0,
+        "item_fame": 0
+    },
+    
+    {
+        "item_id": "T4_FIBER",
+        "item_base_value": 0,
+        "item_fame": 0
+    },
+    {
+        "item_id": "T4_FIBER_LEVEL1@1",
+        "item_base_value": 0,
+        "item_fame": 0
+    },
+    {
+        "item_id": "T4_FIBER_LEVEL2@2",
+        "item_base_value": 0,
+        "item_fame": 0
+    },
+    {
+        "item_id": "T4_FIBER_LEVEL3@3",
+        "item_base_value": 0,
+        "item_fame": 0
+    },
+
+    {
+        "item_id": "T5_FIBER",
+        "item_base_value": 0,
+        "item_fame": 0
+    },
+    {
+        "item_id": "T5_FIBER_LEVEL1@1",
+        "item_base_value": 0,
+        "item_fame": 0
+    },
+    {
+        "item_id": "T5_FIBER_LEVEL2@2",
+        "item_base_value": 0,
+        "item_fame": 0
+    },
+    {
+        "item_id": "T5_FIBER_LEVEL3@3",
+        "item_base_value": 0,
+        "item_fame": 0
+    },
+
+    {
+        "item_id": "T6_FIBER",
+        "item_base_value": 0,
+        "item_fame": 0
+    },
+    {
+        "item_id": "T6_FIBER_LEVEL1@1",
+        "item_base_value": 0,
+        "item_fame": 0
+    },
+    {
+        "item_id": "T6_FIBER_LEVEL2@2",
+        "item_base_value": 0,
+        "item_fame": 0
+    },
+    {
+        "item_id": "T6_FIBER_LEVEL3@3",
+        "item_base_value": 0,
+        "item_fame": 0
+    },
+
+    {
+        "item_id": "T7_FIBER",
+        "item_base_value": 0,
+        "item_fame": 0
+    },
+    {
+        "item_id": "T7_FIBER_LEVEL1@1",
+        "item_base_value": 0,
+        "item_fame": 0
+    },
+    {
+        "item_id": "T7_FIBER_LEVEL2@2",
+        "item_base_value": 0,
+        "item_fame": 0
+    },
+    {
+        "item_id": "T7_FIBER_LEVEL3@3",
+        "item_base_value": 0,
+        "item_fame": 0
+    },
+
+    {
+        "item_id": "T8_FIBER",
+        "item_base_value": 0,
+        "item_fame": 0
+    },
+    {
+        "item_id": "T8_FIBER_LEVEL1@1",
+        "item_base_value": 0,
+        "item_fame": 0
+    },
+    {
+        "item_id": "T8_FIBER_LEVEL2@2",
+        "item_base_value": 0,
+        "item_fame": 0
+    },
+    {
+        "item_id": "T8_FIBER_LEVEL3@3",
+        "item_base_value": 0,
+        "item_fame": 0
+    }    
+]
